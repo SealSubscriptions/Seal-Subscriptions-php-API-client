@@ -2,7 +2,8 @@
 
 	/*
 		This is a sample script which you can use to retrieve subscriptions from Seal Subscriptions app via API. 
-		To retrieve subscriptions and use the API, you need the Seal API token and Seal API secret, which can be found in Seal Subscriptions app > Settings > General Settings > API.
+		To retrieve subscriptions and use the API, you need the Seal API token and Seal API secret, which can be found 
+		in Seal Subscriptions app > Settings > General Settings > API.
 	*/
 
 	require_once dirname(__FILE__).'/SealApiClient.php';
