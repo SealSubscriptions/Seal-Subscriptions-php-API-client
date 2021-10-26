@@ -3,7 +3,7 @@
 This repository contains the Seal Subscriptions Merchant API client, which allows you to make API calls to the Seal Subscriptions app. 
 https://apps.shopify.com/seal-subscriptions
 
-The full Seal Subscriptions Merchatn API documentation is accessible on the following URL:
+The full Seal Subscriptions Merchant API documentation is accessible on the following URL:
 https://www.sealsubscriptions.com/articles/merchant-api-documentation
 
 This repository contains a demo-api-call.php file which allows you to easily start using the API. The file contains a few sample API calls. 
