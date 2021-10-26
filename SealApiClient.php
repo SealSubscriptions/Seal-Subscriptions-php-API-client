@@ -42,7 +42,7 @@ class SealApiClient {
 
 		// You can verify the HMAC of each API response 
 		if ($verifyHmac) {
-			// Verify HMAC so that we can be sure that the content wasn't tempered with
+			// Verify HMAC so that we can be sure that the content wasn't tampered with
 			$hmacVerified = false;
 			
 			$responseHeaders = $this->getLastHeaders();
